@@ -1,0 +1,4 @@
+tkinter
+easygui
+numpy
+Cython
