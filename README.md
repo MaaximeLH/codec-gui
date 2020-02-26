@@ -10,8 +10,8 @@
 ```
 $ git clone https://github.com/MaaximeLH/codec-gui.git 
 $ cd codec-gui
-$ pip install -r requirements.txt
-$ python sources/main.py
+$ pip3 install -r requirements.txt
+$ python3 sources/main.py
 ```
 # Usage
 
